@@ -3,7 +3,7 @@
 ### Sobre mim
 - Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal] *AINDA NÃO ATUALIZADO().
 
-- Sou desenvolvedor Full-Stack, musico e apaixonado por História.
+- Sou desenvolvedor Full-Stack pelo bootcamp Labenu e FreeCodeCamp, musico e apaixonado por História.
 
 - Estou aberto a novas oportunidades no mercado de trabalho. Caso tenha interesse, vamos marcar um bate-papo.
 
