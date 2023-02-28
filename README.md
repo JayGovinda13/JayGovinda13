@@ -1,7 +1,7 @@
 # 👋Olá! Meu nome é Juliano Amaral
 
 ### Sobre mim
-- Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal](https://JayGovinda13.github.io/Portfolio/).
+- Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal](https://JayGovinda13.github.io/Portifolio/).
 
 - Acredito que o desenvolvimento humano alinhado às políticas e estratégias da organização são a chave para o sucesso de qualquer negócio.
 
