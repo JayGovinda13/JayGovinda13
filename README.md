@@ -1,7 +1,7 @@
 # 👋Olá! Meu nome é Juliano Amaral
 
 ### Sobre mim
-- Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu [Portfólio Pessoal] *AINDA NÃO ATUALIZADO().
+- Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se livre para explorar e também a conhecer meu Portfólio Pessoal
 
 - Sou desenvolvedor Full-Stack pelo bootcamp Labenu e FreeCodeCamp, musico e apaixonado por História.
 
